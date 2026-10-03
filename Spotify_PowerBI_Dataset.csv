@@ -1,0 +1,501 @@
+Track_ID,Song_Name,Artist,Album,Genre,Release_Year,Streams,Popularity,Duration_Minutes,Danceability,Energy,Valence,Acousticness,Tempo_BPM,Explicit
+1,Midnight Sky 1,Ed Sheeran,Love & Music,Hip-Hop,2018,604310825,63,4.36,0.66,0.22,0.22,0.2,136.2,Yes
+2,Memories Hearts 2,Shawn Mendes,Golden Hour,Latin,2022,32911967,70,4.43,0.49,0.32,0.92,0.29,80.2,Yes
+3,Higher Sky 3,SZA,City Nights,Hip-Hop,2015,2308082117,93,2.4,0.64,0.85,0.64,0.73,133.5,Yes
+4,Dream Sky 4,The Weeknd,Future Sounds,Indie,2016,438797840,64,3.22,0.36,0.48,0.69,0.6,145.2,Yes
+5,Falling Hearts 5,OneRepublic,Love & Music,Rock,2017,1634748727,94,2.86,0.73,0.86,0.77,0.19,73.5,No
+6,Ocean Lights 6,Harry Styles,City Nights,Dance,2018,918224047,75,4.1,0.35,0.31,0.75,0.46,152.2,No
+7,Perfect World 7,Selena Gomez,Eternal Vibes,Hip-Hop,2018,2193398760,52,3.58,0.36,0.32,0.69,0.51,112.3,No
+8,Ocean Love 8,Maroon 5,Neon Dreams,Hip-Hop,2025,2311270004,49,4.4,0.46,0.32,0.15,0.61,149.2,Yes
+9,Beautiful Sky 9,Maroon 5,Golden Hour,Pop,2025,859316681,99,2.49,0.67,0.58,0.24,0.31,178.4,No
+10,Golden Hearts 10,Bruno Mars,Midnight Memories,R&B,2024,372878761,45,4.34,0.34,0.57,0.59,0.23,166.0,No
+11,Tonight Hearts 11,Drake,Love & Music,Dance,2019,1608828849,86,3.4,0.33,0.38,0.42,0.5,95.3,Yes
+12,Electric Love 12,Ariana Grande,Midnight Memories,Rock,2018,139917627,43,4.75,0.44,0.58,0.58,0.61,167.1,No
+13,Starlight Days 13,Bruno Mars,Neon Dreams,Latin,2018,421314667,47,4.11,0.54,0.87,0.19,0.56,141.1,Yes
+14,Lost Lights 14,Harry Styles,Golden Hour,Latin,2018,821941039,59,3.72,0.38,0.56,0.85,0.06,158.9,Yes
+15,Tonight Love 15,The Weeknd,Future Sounds,Rock,2016,719300770,65,3.3,0.86,0.9,0.28,0.0,112.9,No
+16,Memories Nights 16,Imagine Dragons,Eternal Vibes,Pop,2017,1279350418,59,2.7,0.77,0.24,0.62,0.43,163.8,Yes
+17,Paradise Lights 17,The Weeknd,After Dark,Latin,2017,296889680,43,4.16,0.33,0.89,0.35,0.51,138.1,No
+18,Sunshine World 18,Selena Gomez,City Nights,R&B,2019,1354409434,61,2.76,0.72,0.43,0.4,0.64,78.0,No
+19,Sunshine Lights 19,OneRepublic,Neon Dreams,Hip-Hop,2016,2177758220,62,2.85,0.87,0.49,0.28,0.71,147.4,Yes
+20,City Lights 20,Shawn Mendes,Love & Music,R&B,2017,500762348,68,4.85,0.44,0.67,0.72,0.17,139.8,No
+21,Starlight Sky 21,Maroon 5,Eternal Vibes,Pop,2015,1824244083,46,4.65,0.48,0.3,0.93,0.14,118.6,No
+22,Midnight Lights 22,Shawn Mendes,Neon Dreams,R&B,2016,2348292475,54,2.12,0.55,0.23,0.44,0.79,176.9,Yes
+23,Forever Hearts 23,SZA,City Nights,R&B,2025,1524038154,48,4.5,0.9,0.38,0.28,0.68,89.5,No
+24,Falling World 24,Ariana Grande,Midnight Memories,Latin,2021,1150921803,66,2.51,0.86,0.87,0.33,0.69,120.6,No
+25,Dream Love 25,Bruno Mars,Midnight Memories,EDM,2025,1716398352,59,3.05,0.5,0.6,0.69,0.72,106.4,Yes
+26,Ocean Dreams 26,Ed Sheeran,City Nights,Indie,2024,169313410,68,2.35,0.76,0.44,0.63,0.43,112.4,Yes
+27,Golden Days 27,Post Malone,Neon Dreams,Indie,2015,1569319318,60,3.38,0.71,0.3,0.87,0.43,143.4,No
+28,City Dreams 28,Harry Styles,Golden Hour,EDM,2018,1633416575,88,4.17,0.53,0.85,0.39,0.18,156.4,No
+29,Heartbeat Nights 29,Coldplay,Golden Hour,Hip-Hop,2025,2200475598,62,3.51,0.45,0.72,0.65,0.08,174.7,Yes
+30,Dream Hearts 30,Imagine Dragons,Future Sounds,Hip-Hop,2017,203486416,38,2.78,0.57,0.89,0.61,0.61,112.2,No
+31,Summer Love 31,Bruno Mars,Love & Music,Dance,2016,944915527,89,2.56,0.29,0.39,0.83,0.39,158.2,No
+32,Waves Days 32,Coldplay,Future Sounds,Dance,2023,688577992,92,4.38,0.43,0.39,0.66,0.65,127.3,Yes
+33,Heartbeat Lights 33,Post Malone,Love & Music,Hip-Hop,2019,1172007513,65,3.07,0.35,0.38,0.71,0.6,77.1,No
+34,Tonight Nights 34,Justin Bieber,City Nights,Pop,2021,893346940,42,4.67,0.85,0.8,0.45,0.01,108.7,No
+35,Tonight Hearts 35,Olivia Rodrigo,Eternal Vibes,Latin,2022,1177248246,63,3.39,0.49,0.73,0.47,0.14,121.4,Yes
+36,Tonight Love 36,OneRepublic,Golden Hour,Dance,2021,365551585,38,4.06,0.38,0.4,0.41,0.39,107.1,No
+37,Memories Sky 37,Post Malone,Eternal Vibes,Indie,2016,88250566,95,4.4,0.41,0.25,0.92,0.03,73.4,Yes
+38,Midnight Dreams 38,Drake,The Collection,Rock,2018,2038929266,51,4.14,0.58,0.4,0.45,0.52,176.0,Yes
+39,City Lights 39,Billie Eilish,City Nights,Latin,2024,1344846171,38,3.84,0.91,0.35,0.62,0.71,96.7,No
+40,Beautiful Love 40,OneRepublic,Neon Dreams,Pop,2020,1596589823,89,2.22,0.84,0.84,0.23,0.82,139.9,No
+41,Memories Dreams 41,Dua Lipa,Future Sounds,Latin,2023,2316435034,69,4.48,0.83,0.66,0.41,0.21,172.8,No
+42,Dream Nights 42,Coldplay,Neon Dreams,R&B,2024,1449812497,83,2.09,0.59,0.48,0.36,0.24,135.6,No
+43,Midnight Hearts 43,Shawn Mendes,After Dark,Dance,2016,1750595491,65,3.56,0.7,0.58,0.78,0.08,94.4,Yes
+44,Sunshine World 44,Imagine Dragons,Love & Music,Indie,2022,1832524957,79,5.19,0.5,0.55,0.4,0.2,149.3,No
+45,Tonight Dreams 45,Ed Sheeran,The Collection,EDM,2018,2084617090,62,2.88,0.94,0.85,0.39,0.31,103.2,Yes
+46,Golden Love 46,Post Malone,Future Sounds,Hip-Hop,2023,547366274,72,4.04,0.86,0.65,0.53,0.37,90.3,Yes
+47,Starlight Lights 47,Post Malone,Eternal Vibes,R&B,2016,2117035409,86,2.24,0.35,0.64,0.39,0.84,83.0,No
+48,Waves Hearts 48,OneRepublic,Summer Lights,Latin,2023,1939944879,83,4.91,0.46,0.68,0.64,0.63,174.2,Yes
+49,Ocean Lights 49,Drake,Golden Hour,Pop,2017,751523513,65,3.77,0.54,0.74,0.53,0.03,101.7,No
+50,Electric Hearts 50,Coldplay,After Dark,R&B,2019,1830957977,60,2.37,0.89,0.84,0.21,0.14,103.8,No
+51,Beautiful Nights 51,Coldplay,Future Sounds,Dance,2019,1174288485,86,3.6,0.31,0.23,0.5,0.27,97.5,Yes
+52,Sunshine Love 52,Bruno Mars,Golden Hour,Dance,2025,2479961963,69,2.13,0.61,0.54,0.37,0.85,117.9,No
+53,Starlight World 53,Taylor Swift,Golden Hour,Indie,2021,1383934717,77,4.14,0.54,0.59,0.68,0.34,153.7,Yes
+54,Electric World 54,Coldplay,City Nights,Pop,2019,502879474,76,5.1,0.71,0.62,0.48,0.16,109.8,No
+55,Golden Hearts 55,Coldplay,Future Sounds,Hip-Hop,2019,1242075775,51,3.4,0.27,0.69,0.79,0.6,104.2,Yes
+56,Memories Lights 56,Shawn Mendes,Golden Hour,Dance,2018,1986903597,49,5.03,0.9,0.43,0.71,0.35,123.1,No
+57,Heartbeat Dreams 57,Bruno Mars,Golden Hour,Hip-Hop,2021,2187878006,59,4.39,0.44,0.82,0.48,0.79,125.9,Yes
+58,City Nights 58,Imagine Dragons,Neon Dreams,Latin,2017,2318185971,92,3.55,0.57,0.45,0.3,0.59,132.9,Yes
+59,Golden World 59,Olivia Rodrigo,Golden Hour,Dance,2022,1663195603,83,5.16,0.93,0.3,0.92,0.28,81.0,No
+60,Paradise Nights 60,Ed Sheeran,Golden Hour,Hip-Hop,2015,1765844750,53,4.79,0.58,0.96,0.42,0.59,141.5,No
+61,Perfect World 61,Shawn Mendes,Midnight Memories,Rock,2025,2328646093,97,2.11,0.69,0.92,0.95,0.63,117.7,Yes
+62,Heartbeat Dreams 62,Ed Sheeran,Eternal Vibes,EDM,2019,202529702,38,3.04,0.5,0.54,0.35,0.35,145.0,Yes
+63,Falling Lights 63,Billie Eilish,The Collection,R&B,2024,1039356087,83,3.59,0.41,0.7,0.52,0.57,168.9,No
+64,Tonight Dreams 64,Imagine Dragons,Summer Lights,Latin,2016,1489193033,91,5.16,0.73,0.56,0.39,0.85,163.9,Yes
+65,Perfect World 65,Bruno Mars,City Nights,EDM,2024,1273006448,72,2.07,0.26,0.87,0.77,0.83,170.2,No
+66,Dream World 66,Imagine Dragons,Golden Hour,Hip-Hop,2018,1081433900,59,4.17,0.88,0.7,0.4,0.37,133.8,Yes
+67,City World 67,Taylor Swift,Love & Music,Indie,2021,867407093,57,2.42,0.62,0.91,0.81,0.22,160.7,No
+68,Lost Lights 68,Imagine Dragons,After Dark,Latin,2022,609546780,44,4.41,0.93,0.83,0.44,0.67,71.5,Yes
+69,Higher Sky 69,Coldplay,After Dark,Dance,2024,1600467139,83,2.35,0.27,0.89,0.6,0.78,94.4,Yes
+70,City Days 70,Coldplay,Summer Lights,Dance,2016,199763060,52,5.03,0.33,0.38,0.58,0.33,110.8,No
+71,Summer Days 71,Selena Gomez,Summer Lights,Pop,2025,2106729519,47,3.97,0.73,0.37,0.51,0.2,109.9,No
+72,Higher Love 72,Shawn Mendes,Future Sounds,Hip-Hop,2021,820221547,70,5.1,0.71,0.7,0.63,0.02,156.5,Yes
+73,Sunshine Hearts 73,Dua Lipa,After Dark,Indie,2016,932503999,61,4.6,0.79,0.82,0.63,0.24,178.2,Yes
+74,Ocean Dreams 74,Shawn Mendes,After Dark,Indie,2016,571090561,38,2.05,0.26,0.41,0.25,0.36,82.5,Yes
+75,Heartbeat World 75,Doja Cat,The Collection,Pop,2023,1946348507,48,3.61,0.76,0.91,0.68,0.26,140.8,Yes
+76,Starlight Days 76,The Weeknd,Future Sounds,Hip-Hop,2021,2110688676,48,4.28,0.88,0.45,0.27,0.11,138.7,No
+77,Waves Sky 77,Harry Styles,Midnight Memories,Rock,2022,1852692041,99,2.32,0.55,0.89,0.48,0.7,113.9,Yes
+78,Memories World 78,Justin Bieber,Future Sounds,Hip-Hop,2025,1612610633,67,5.05,0.31,0.27,0.5,0.63,111.0,Yes
+79,Golden World 79,Shawn Mendes,City Nights,Pop,2025,1769409657,50,3.13,0.93,0.67,0.43,0.49,93.4,No
+80,Beautiful World 80,Bruno Mars,The Collection,Rock,2023,498428666,82,4.44,0.82,0.86,0.93,0.7,137.5,Yes
+81,Ocean Love 81,OneRepublic,Neon Dreams,Pop,2017,1332079104,69,4.95,0.38,0.31,0.68,0.06,151.5,Yes
+82,Paradise Hearts 82,Taylor Swift,Neon Dreams,EDM,2021,1953393831,88,3.09,0.76,0.81,0.6,0.07,75.8,Yes
+83,Golden Lights 83,OneRepublic,Future Sounds,Latin,2019,1826129578,91,3.55,0.44,0.79,0.24,0.37,101.2,No
+84,City Love 84,Maroon 5,Summer Lights,Rock,2018,240286733,85,2.02,0.79,0.8,0.38,0.1,124.7,No
+85,Summer Days 85,Billie Eilish,Neon Dreams,Hip-Hop,2023,2153610411,64,3.79,0.53,0.78,0.5,0.39,78.6,No
+86,Memories Days 86,Selena Gomez,Eternal Vibes,Indie,2025,1248458354,88,2.37,0.37,0.94,0.52,0.59,109.8,No
+87,Dream Days 87,Ed Sheeran,Summer Lights,Indie,2024,2255402001,86,2.25,0.41,0.81,0.21,0.54,128.4,Yes
+88,Higher Dreams 88,SZA,Golden Hour,R&B,2018,633973138,48,2.82,0.78,0.71,0.29,0.66,124.4,No
+89,Waves World 89,Selena Gomez,Future Sounds,Dance,2025,653357091,75,3.41,0.69,0.82,0.62,0.3,78.2,No
+90,Golden Love 90,Coldplay,Midnight Memories,Latin,2020,334557138,71,4.06,0.57,0.63,0.78,0.76,119.5,Yes
+91,Waves Nights 91,Justin Bieber,Neon Dreams,Hip-Hop,2023,270745534,54,3.44,0.6,0.33,0.35,0.37,118.3,Yes
+92,Higher Sky 92,SZA,Eternal Vibes,Indie,2021,1458275827,87,4.17,0.3,0.27,0.69,0.24,149.6,Yes
+93,Electric Dreams 93,Justin Bieber,Midnight Memories,EDM,2020,1688446724,74,2.41,0.64,0.7,0.41,0.11,147.3,Yes
+94,Paradise World 94,Olivia Rodrigo,After Dark,Indie,2015,1331569692,81,2.58,0.91,0.58,0.33,0.12,78.5,Yes
+95,Tonight Love 95,Maroon 5,Golden Hour,R&B,2025,567851356,78,3.91,0.38,0.74,0.65,0.77,149.3,Yes
+96,Higher Hearts 96,Olivia Rodrigo,After Dark,EDM,2022,1933130926,71,2.75,0.93,0.81,0.87,0.16,144.6,No
+97,City Days 97,Coldplay,The Collection,R&B,2023,701034559,88,4.61,0.86,0.24,0.53,0.32,172.8,Yes
+98,Electric Dreams 98,Imagine Dragons,City Nights,Hip-Hop,2019,2209833223,92,2.47,0.91,0.37,0.51,0.3,72.9,Yes
+99,Paradise World 99,Harry Styles,Eternal Vibes,Indie,2018,355492684,84,3.2,0.9,0.85,0.67,0.67,85.1,No
+100,Summer Nights 100,Doja Cat,After Dark,R&B,2022,345272119,35,2.06,0.63,0.77,0.57,0.09,101.7,No
+101,Golden Hearts 101,Ed Sheeran,Future Sounds,Pop,2021,274754673,93,2.35,0.69,0.65,0.72,0.25,70.2,No
+102,Sunshine Days 102,Bruno Mars,Midnight Memories,Pop,2017,2253349034,45,5.12,0.52,0.57,0.66,0.83,97.9,Yes
+103,Electric World 103,SZA,Neon Dreams,Indie,2018,1433156550,48,2.43,0.82,0.34,0.77,0.39,146.5,Yes
+104,Electric Nights 104,Dua Lipa,After Dark,Pop,2015,870826728,72,2.14,0.47,0.44,0.47,0.69,122.1,Yes
+105,City World 105,Drake,Neon Dreams,Latin,2015,1178456409,77,2.4,0.87,0.78,0.87,0.33,177.1,No
+106,Higher Sky 106,Doja Cat,Golden Hour,EDM,2016,343988898,89,3.38,0.47,0.26,0.68,0.26,136.3,No
+107,Heartbeat World 107,Billie Eilish,City Nights,EDM,2022,1519230707,40,3.97,0.7,0.82,0.2,0.57,114.7,Yes
+108,Summer Nights 108,Ariana Grande,Neon Dreams,Indie,2015,293765093,51,2.76,0.52,0.64,0.63,0.58,174.4,No
+109,Electric Dreams 109,Coldplay,Summer Lights,Rock,2023,1714543220,81,3.01,0.92,0.22,0.3,0.44,170.5,Yes
+110,Ocean Nights 110,Post Malone,Golden Hour,Hip-Hop,2018,2114688769,71,2.64,0.57,0.9,0.51,0.07,145.0,No
+111,Electric Sky 111,SZA,Love & Music,Rock,2019,752715196,55,4.54,0.33,0.36,0.26,0.67,72.9,No
+112,Tonight Dreams 112,Coldplay,Future Sounds,Latin,2024,287385977,46,2.99,0.79,0.84,0.21,0.83,140.7,No
+113,Paradise World 113,Coldplay,Eternal Vibes,Hip-Hop,2017,559192345,58,3.38,0.61,0.44,0.28,0.79,94.8,No
+114,Ocean Hearts 114,Taylor Swift,The Collection,Hip-Hop,2025,542602307,70,4.0,0.6,0.33,0.9,0.13,142.5,No
+115,Golden Love 115,Selena Gomez,After Dark,Latin,2016,2482213586,40,2.85,0.68,0.22,0.86,0.46,140.6,No
+116,Dream Days 116,Doja Cat,Golden Hour,Dance,2019,318416738,93,4.2,0.54,0.56,0.42,0.12,164.8,No
+117,Perfect Dreams 117,SZA,After Dark,Dance,2020,2417273600,100,2.34,0.34,0.55,0.26,0.04,174.0,No
+118,Falling World 118,Bruno Mars,Future Sounds,Dance,2024,820331250,75,4.44,0.6,0.44,0.17,0.8,125.6,Yes
+119,Sunshine World 119,Drake,Future Sounds,EDM,2015,1213416260,41,3.58,0.63,0.86,0.49,0.75,150.0,No
+120,Golden Days 120,SZA,Midnight Memories,Latin,2015,1562027753,59,3.77,0.6,0.8,0.37,0.84,144.8,Yes
+121,Beautiful Days 121,Dua Lipa,Golden Hour,Rock,2020,2400869480,78,5.0,0.67,0.51,0.18,0.03,148.5,No
+122,Heartbeat Dreams 122,Maroon 5,The Collection,Indie,2024,605354779,100,3.05,0.36,0.97,0.74,0.25,107.0,No
+123,City Nights 123,Selena Gomez,City Nights,EDM,2015,1427663210,82,4.16,0.81,0.77,0.7,0.02,122.2,Yes
+124,Sunshine Nights 124,The Weeknd,After Dark,Pop,2017,639691836,83,4.63,0.65,0.75,0.3,0.37,116.1,No
+125,Memories Nights 125,Drake,Neon Dreams,Dance,2015,2232727430,52,2.66,0.62,0.44,0.29,0.78,107.7,No
+126,Waves Nights 126,Post Malone,After Dark,EDM,2018,1203323340,66,3.79,0.79,0.75,0.7,0.42,122.8,No
+127,Beautiful Days 127,Imagine Dragons,Summer Lights,Hip-Hop,2021,634110165,79,2.93,0.49,0.55,0.36,0.41,92.2,No
+128,Ocean Dreams 128,Shawn Mendes,Love & Music,Rock,2016,1046349374,65,2.16,0.7,0.24,0.48,0.61,81.1,Yes
+129,Tonight Dreams 129,Ariana Grande,Summer Lights,Indie,2021,2055625761,95,4.08,0.45,0.25,0.76,0.55,95.5,Yes
+130,Memories Dreams 130,Billie Eilish,Summer Lights,Pop,2015,2132657643,85,2.6,0.26,0.64,0.24,0.84,101.3,No
+131,Paradise Nights 131,Dua Lipa,Future Sounds,EDM,2019,488814153,59,3.06,0.75,0.21,0.42,0.25,144.2,Yes
+132,Waves Days 132,Billie Eilish,Midnight Memories,R&B,2021,1413434291,100,2.28,0.94,0.57,0.9,0.01,112.2,No
+133,Lost Sky 133,Post Malone,After Dark,Pop,2024,1128362233,36,4.09,0.72,0.56,0.28,0.58,171.5,No
+134,City World 134,Ed Sheeran,Future Sounds,R&B,2024,946150163,63,5.06,0.57,0.97,0.45,0.6,170.4,Yes
+135,Waves Lights 135,Bruno Mars,Midnight Memories,Hip-Hop,2023,2273486276,92,4.25,0.29,0.63,0.55,0.49,86.5,No
+136,Heartbeat Lights 136,Maroon 5,Love & Music,Dance,2025,2104500153,61,2.29,0.82,0.55,0.56,0.39,76.4,No
+137,Midnight Days 137,Imagine Dragons,Eternal Vibes,Latin,2019,940878994,35,3.85,0.49,0.25,0.95,0.79,77.6,No
+138,City Days 138,The Weeknd,City Nights,Dance,2017,1810440796,52,3.2,0.86,0.91,0.45,0.58,142.8,Yes
+139,Beautiful Dreams 139,SZA,After Dark,Pop,2023,2276361431,85,2.41,0.78,0.96,0.52,0.61,116.7,No
+140,Dream Nights 140,Bruno Mars,Midnight Memories,Pop,2020,1188906581,54,2.6,0.82,0.53,0.76,0.75,71.7,Yes
+141,Beautiful Love 141,Taylor Swift,City Nights,Dance,2022,1056125170,41,4.37,0.41,0.37,0.84,0.05,125.4,No
+142,Sunshine World 142,Bruno Mars,Golden Hour,Rock,2024,1022495081,76,2.97,0.54,0.41,0.6,0.5,150.9,Yes
+143,Tonight Nights 143,Olivia Rodrigo,Neon Dreams,Latin,2015,1642046672,79,4.51,0.54,0.43,0.3,0.46,96.5,Yes
+144,Summer Nights 144,Imagine Dragons,Golden Hour,Latin,2015,1793887661,87,3.78,0.42,0.36,0.67,0.78,163.2,Yes
+145,Forever Love 145,Shawn Mendes,After Dark,Rock,2019,174855455,83,4.8,0.59,0.88,0.42,0.81,71.7,Yes
+146,Starlight Hearts 146,Ed Sheeran,Love & Music,Indie,2024,1708521697,61,4.93,0.79,0.5,0.58,0.31,98.8,No
+147,Beautiful Nights 147,Coldplay,Eternal Vibes,Rock,2020,1597165525,61,3.0,0.77,0.21,0.59,0.5,149.2,No
+148,Forever World 148,Dua Lipa,Future Sounds,Indie,2018,2452227327,83,4.67,0.43,0.84,0.92,0.55,124.0,Yes
+149,Falling Dreams 149,SZA,Love & Music,Pop,2023,795479137,97,4.93,0.62,0.85,0.21,0.7,75.3,Yes
+150,Summer Hearts 150,Olivia Rodrigo,Future Sounds,Indie,2016,44262289,54,2.7,0.29,0.7,0.9,0.78,142.5,Yes
+151,Tonight Days 151,Ariana Grande,Love & Music,EDM,2015,2278831457,37,4.31,0.26,0.83,0.69,0.69,170.1,Yes
+152,Paradise Dreams 152,Ed Sheeran,Neon Dreams,EDM,2018,2266111254,59,2.81,0.81,0.26,0.92,0.39,96.8,Yes
+153,Electric Love 153,Imagine Dragons,Future Sounds,Pop,2016,1633926576,86,3.21,0.7,0.75,0.22,0.72,140.9,No
+154,Beautiful Love 154,Selena Gomez,Eternal Vibes,Hip-Hop,2018,2439319360,62,3.52,0.73,0.42,0.58,0.56,89.7,No
+155,Forever Dreams 155,Ariana Grande,After Dark,Latin,2021,1290384455,44,2.52,0.72,0.62,0.46,0.63,157.0,Yes
+156,Higher Love 156,Maroon 5,Neon Dreams,Latin,2016,1002050893,90,4.68,0.93,0.45,0.66,0.67,119.6,Yes
+157,Tonight Days 157,SZA,The Collection,EDM,2021,1637399901,58,2.27,0.81,0.76,0.22,0.13,148.3,Yes
+158,Lost World 158,Harry Styles,Future Sounds,Indie,2016,27313296,46,5.02,0.78,0.28,0.22,0.37,131.3,No
+159,Midnight Lights 159,Ed Sheeran,Eternal Vibes,EDM,2020,1398417638,46,4.76,0.54,0.81,0.73,0.48,179.2,Yes
+160,Paradise Dreams 160,Selena Gomez,Summer Lights,EDM,2025,733004476,83,2.44,0.6,0.25,0.5,0.36,123.3,Yes
+161,Ocean Hearts 161,SZA,Golden Hour,EDM,2025,844873216,98,3.47,0.25,0.51,0.82,0.32,164.8,No
+162,Memories Dreams 162,Justin Bieber,Golden Hour,Latin,2019,867650571,76,3.53,0.93,0.43,0.71,0.42,133.3,Yes
+163,Perfect Sky 163,Justin Bieber,After Dark,R&B,2021,494144474,81,4.98,0.73,0.63,0.91,0.39,147.9,No
+164,Electric Days 164,Imagine Dragons,After Dark,EDM,2025,602769760,98,4.03,0.71,0.76,0.78,0.06,179.0,No
+165,Perfect Days 165,Selena Gomez,Love & Music,Hip-Hop,2023,1549167403,39,4.25,0.33,0.39,0.68,0.14,137.4,No
+166,Memories Lights 166,Justin Bieber,Love & Music,Rock,2015,1116272861,47,2.71,0.56,0.51,0.77,0.5,125.1,No
+167,Starlight Lights 167,Ariana Grande,Golden Hour,Indie,2019,373743555,88,2.37,0.47,0.56,0.32,0.41,122.4,No
+168,Lost Lights 168,Coldplay,Neon Dreams,Hip-Hop,2019,499287462,40,2.07,0.72,0.33,0.94,0.21,89.2,Yes
+169,Tonight Days 169,Justin Bieber,Golden Hour,Latin,2022,1744665472,64,4.02,0.53,0.78,0.86,0.38,117.3,Yes
+170,Forever Sky 170,Drake,Neon Dreams,Rock,2016,2310920746,48,2.6,0.57,0.4,0.84,0.45,140.3,No
+171,Perfect Lights 171,OneRepublic,Summer Lights,Hip-Hop,2020,1971496239,80,3.98,0.72,0.44,0.34,0.1,111.1,Yes
+172,Perfect Days 172,Maroon 5,Golden Hour,Dance,2024,2473773157,52,3.23,0.69,0.74,0.67,0.85,131.0,No
+173,Summer Dreams 173,Imagine Dragons,Eternal Vibes,Dance,2020,235258601,92,4.77,0.35,0.84,0.92,0.43,124.4,No
+174,Heartbeat Nights 174,Olivia Rodrigo,After Dark,EDM,2017,2433365056,45,2.1,0.27,0.38,0.38,0.66,132.2,No
+175,Paradise Lights 175,Shawn Mendes,Neon Dreams,Pop,2024,1155574089,49,4.48,0.78,0.54,0.32,0.36,151.0,Yes
+176,Golden Nights 176,Imagine Dragons,Midnight Memories,Rock,2019,378589152,79,3.41,0.4,0.78,0.7,0.73,137.1,No
+177,Waves Dreams 177,Billie Eilish,Love & Music,EDM,2018,259939955,61,3.82,0.67,0.33,0.93,0.25,133.0,Yes
+178,Memories Love 178,Dua Lipa,Neon Dreams,Rock,2019,574902893,51,2.8,0.78,0.73,0.54,0.49,99.6,No
+179,Heartbeat Lights 179,Harry Styles,Summer Lights,Indie,2025,1735230896,46,3.65,0.57,0.58,0.62,0.74,163.2,Yes
+180,Higher Lights 180,Coldplay,After Dark,Dance,2023,940572425,85,5.1,0.44,0.85,0.42,0.49,132.3,No
+181,Golden Love 181,Justin Bieber,Golden Hour,Dance,2016,74927882,93,2.4,0.57,0.97,0.49,0.85,170.0,No
+182,Ocean Lights 182,Billie Eilish,Golden Hour,Pop,2025,1080413763,81,2.26,0.53,0.44,0.71,0.2,142.1,Yes
+183,Forever Nights 183,Ariana Grande,Future Sounds,Pop,2016,976482353,51,3.66,0.26,0.47,0.25,0.73,146.3,No
+184,Dream Days 184,Taylor Swift,Summer Lights,R&B,2016,448247229,48,3.0,0.52,0.83,0.85,0.55,144.5,Yes
+185,Sunshine Love 185,Maroon 5,After Dark,R&B,2024,1895212621,56,3.12,0.89,0.68,0.5,0.18,168.6,Yes
+186,Sunshine Days 186,Ed Sheeran,After Dark,EDM,2020,1355782959,89,4.53,0.7,0.39,0.63,0.61,101.3,Yes
+187,Forever Hearts 187,Imagine Dragons,After Dark,Dance,2021,239372626,72,4.51,0.52,0.39,0.66,0.06,167.8,Yes
+188,Lost Dreams 188,SZA,Golden Hour,Dance,2021,1574434583,88,3.75,0.92,0.8,0.16,0.06,98.8,Yes
+189,Perfect Sky 189,The Weeknd,City Nights,Hip-Hop,2025,1789266819,99,3.36,0.7,0.62,0.27,0.07,78.7,Yes
+190,Tonight World 190,Dua Lipa,After Dark,Pop,2021,1337167822,43,4.24,0.42,0.92,0.24,0.52,76.1,Yes
+191,Midnight Dreams 191,Ed Sheeran,Love & Music,EDM,2015,2137077306,55,5.05,0.37,0.3,0.77,0.23,167.5,Yes
+192,Memories Sky 192,Justin Bieber,The Collection,Hip-Hop,2023,1134360134,43,4.28,0.6,0.6,0.19,0.73,88.4,Yes
+193,Beautiful Lights 193,Post Malone,Eternal Vibes,Rock,2018,16031667,100,2.14,0.28,0.48,0.89,0.15,175.6,Yes
+194,Memories Hearts 194,Shawn Mendes,Neon Dreams,EDM,2020,1792808459,66,4.93,0.83,0.65,0.25,0.57,75.8,Yes
+195,Golden Days 195,Maroon 5,Summer Lights,Indie,2016,1217498755,94,4.48,0.31,0.56,0.45,0.25,156.3,Yes
+196,Higher Nights 196,Coldplay,City Nights,Pop,2018,651677686,66,2.02,0.41,0.47,0.82,0.75,174.6,Yes
+197,City Lights 197,Harry Styles,Eternal Vibes,R&B,2018,1808095297,65,3.57,0.75,0.27,0.89,0.76,127.2,No
+198,Electric Lights 198,Coldplay,The Collection,Pop,2023,1698725910,52,2.24,0.55,0.95,0.34,0.22,104.7,No
+199,Lost Nights 199,Justin Bieber,Golden Hour,Hip-Hop,2019,325780067,64,5.02,0.36,0.33,0.52,0.35,129.0,Yes
+200,City Nights 200,Coldplay,Summer Lights,Pop,2019,393354759,50,2.5,0.4,0.87,0.27,0.6,176.5,No
+201,Golden Sky 201,Maroon 5,Future Sounds,Rock,2019,138496549,57,5.05,0.32,0.28,0.79,0.1,76.8,Yes
+202,Forever Days 202,Dua Lipa,Midnight Memories,Pop,2020,1116626210,45,4.94,0.95,0.35,0.67,0.69,80.1,No
+203,Golden Nights 203,Ed Sheeran,City Nights,Dance,2015,2469813860,56,3.39,0.27,0.73,0.29,0.18,90.6,No
+204,Summer Love 204,Coldplay,Love & Music,Dance,2024,1272467039,66,3.6,0.29,0.42,0.26,0.17,167.3,Yes
+205,Midnight Days 205,Shawn Mendes,Neon Dreams,Indie,2020,2343686158,96,4.5,0.52,0.34,0.41,0.19,168.5,No
+206,Starlight World 206,The Weeknd,After Dark,EDM,2024,690583357,64,2.32,0.62,0.82,0.74,0.65,174.3,No
+207,Falling Dreams 207,SZA,Eternal Vibes,Indie,2018,1545961801,75,4.92,0.91,0.64,0.6,0.16,178.7,No
+208,City Dreams 208,Shawn Mendes,The Collection,Rock,2022,392652480,39,2.18,0.26,0.57,0.42,0.52,158.7,No
+209,Lost Love 209,Billie Eilish,Love & Music,Indie,2015,613393560,53,4.48,0.92,0.49,0.9,0.34,81.1,No
+210,Summer Dreams 210,Justin Bieber,Love & Music,Indie,2021,1367721798,97,2.56,0.41,0.66,0.29,0.26,145.7,Yes
+211,Midnight Days 211,Billie Eilish,The Collection,Rock,2024,787035199,39,3.93,0.7,0.28,0.55,0.28,78.6,No
+212,Falling Lights 212,Justin Bieber,After Dark,Rock,2025,1923260963,77,2.04,0.74,0.47,0.78,0.61,75.3,No
+213,Falling Days 213,Olivia Rodrigo,Midnight Memories,Dance,2022,1513526390,83,3.75,0.8,0.65,0.76,0.19,119.6,Yes
+214,Midnight World 214,Imagine Dragons,City Nights,R&B,2019,323688299,48,3.09,0.76,0.63,0.87,0.08,135.3,No
+215,Memories Dreams 215,Ariana Grande,Neon Dreams,Rock,2024,679755608,90,2.17,0.93,0.52,0.59,0.79,129.4,No
+216,Dream Lights 216,Imagine Dragons,Future Sounds,R&B,2015,2460732633,85,3.76,0.29,0.2,0.22,0.7,138.8,No
+217,Beautiful Love 217,Drake,Future Sounds,Hip-Hop,2018,1258320675,56,5.13,0.47,0.51,0.54,0.56,80.0,No
+218,Higher Days 218,Billie Eilish,Future Sounds,Dance,2020,1919590233,58,2.14,0.43,0.85,0.6,0.13,146.6,Yes
+219,Higher Days 219,Taylor Swift,City Nights,Latin,2024,2382702111,64,2.2,0.93,0.74,0.9,0.49,95.9,No
+220,Perfect Love 220,Taylor Swift,Future Sounds,R&B,2023,521606697,53,5.04,0.91,0.33,0.32,0.16,74.7,Yes
+221,Forever Dreams 221,Olivia Rodrigo,Midnight Memories,Hip-Hop,2024,1378313591,68,4.91,0.52,0.51,0.41,0.23,120.4,Yes
+222,Sunshine Days 222,OneRepublic,The Collection,Hip-Hop,2016,647708893,88,2.47,0.9,0.64,0.23,0.24,128.9,No
+223,Ocean Days 223,Olivia Rodrigo,Eternal Vibes,R&B,2025,2461821088,97,3.95,0.44,0.31,0.64,0.59,74.3,No
+224,Golden Nights 224,Bruno Mars,Summer Lights,EDM,2019,91899610,82,3.08,0.45,0.58,0.71,0.08,165.6,Yes
+225,Heartbeat World 225,Imagine Dragons,After Dark,Latin,2019,388484123,88,2.6,0.77,0.79,0.84,0.7,126.7,Yes
+226,City Days 226,Taylor Swift,After Dark,Pop,2017,751196273,38,2.62,0.42,0.56,0.88,0.6,100.1,No
+227,Perfect Lights 227,Maroon 5,The Collection,Dance,2025,1044116218,38,3.19,0.37,0.88,0.62,0.3,88.0,No
+228,City Love 228,Taylor Swift,After Dark,Rock,2021,704681969,41,4.73,0.7,0.73,0.37,0.35,72.2,Yes
+229,Summer Dreams 229,Doja Cat,Summer Lights,EDM,2024,966084962,36,2.81,0.55,0.49,0.43,0.21,121.3,No
+230,Beautiful Love 230,Selena Gomez,The Collection,EDM,2023,2416439945,82,4.07,0.46,0.28,0.2,0.84,140.5,No
+231,City Hearts 231,Post Malone,The Collection,Latin,2017,248845356,65,4.58,0.71,0.73,0.73,0.56,179.7,No
+232,Perfect Days 232,Olivia Rodrigo,After Dark,Dance,2015,1478891248,59,4.32,0.88,0.72,0.56,0.72,162.5,Yes
+233,Beautiful Nights 233,Imagine Dragons,Golden Hour,Indie,2017,2406022668,68,4.44,0.71,0.37,0.33,0.74,116.3,No
+234,Ocean Sky 234,SZA,The Collection,Hip-Hop,2022,2025939193,50,2.17,0.58,0.35,0.25,0.58,128.3,No
+235,Summer Dreams 235,The Weeknd,Future Sounds,R&B,2018,1762465583,78,5.16,0.47,0.76,0.77,0.41,139.4,Yes
+236,Golden Love 236,Justin Bieber,Golden Hour,R&B,2022,904290419,70,4.44,0.59,0.8,0.22,0.52,139.7,No
+237,Starlight Days 237,Olivia Rodrigo,Neon Dreams,Pop,2015,2297578829,39,2.64,0.87,0.79,0.57,0.02,70.5,Yes
+238,Higher Sky 238,Bruno Mars,Summer Lights,R&B,2017,1652336743,48,3.61,0.3,0.24,0.91,0.39,127.2,No
+239,Summer World 239,Olivia Rodrigo,City Nights,Pop,2022,814283659,80,2.53,0.41,0.77,0.25,0.62,134.9,Yes
+240,Higher Love 240,Ed Sheeran,The Collection,Pop,2021,2301662600,67,3.99,0.71,0.71,0.17,0.59,115.8,No
+241,Tonight Sky 241,Ed Sheeran,Eternal Vibes,EDM,2022,887593929,54,4.22,0.54,0.28,0.57,0.53,147.1,No
+242,Paradise Lights 242,Ed Sheeran,The Collection,Rock,2019,461399159,49,3.59,0.79,0.85,0.93,0.3,115.1,Yes
+243,Tonight Nights 243,The Weeknd,Eternal Vibes,Hip-Hop,2018,1424931729,96,2.75,0.88,0.85,0.69,0.13,79.9,Yes
+244,Ocean Hearts 244,Ed Sheeran,Midnight Memories,R&B,2022,1139408349,72,3.49,0.86,0.86,0.44,0.58,116.9,Yes
+245,Golden Love 245,Ed Sheeran,Future Sounds,EDM,2017,1416587518,56,3.14,0.86,0.27,0.8,0.16,114.1,No
+246,Perfect Nights 246,Post Malone,Eternal Vibes,R&B,2021,490574228,56,2.42,0.32,0.91,0.54,0.48,118.2,No
+247,Waves Love 247,SZA,Midnight Memories,Latin,2025,2079811306,51,4.95,0.56,0.25,0.67,0.01,165.5,Yes
+248,Paradise Lights 248,Justin Bieber,City Nights,R&B,2021,2074872193,66,3.11,0.84,0.64,0.94,0.05,140.8,Yes
+249,Starlight Nights 249,Maroon 5,Neon Dreams,EDM,2017,2116611923,44,3.03,0.29,0.37,0.66,0.34,95.8,No
+250,Sunshine Nights 250,Coldplay,Future Sounds,Pop,2016,1925142971,98,3.01,0.32,0.52,0.6,0.0,80.0,No
+251,Tonight Hearts 251,Maroon 5,Eternal Vibes,Rock,2025,1468957634,93,3.16,0.84,0.46,0.76,0.51,148.8,No
+252,Beautiful Lights 252,Coldplay,Summer Lights,Indie,2025,14435833,63,3.09,0.74,0.24,0.28,0.12,148.9,No
+253,Ocean Hearts 253,Ed Sheeran,After Dark,Indie,2018,1692477596,50,2.69,0.33,0.52,0.89,0.71,134.8,No
+254,Sunshine Dreams 254,Coldplay,Love & Music,Latin,2022,2282897510,35,4.36,0.84,0.58,0.56,0.78,89.5,Yes
+255,Beautiful Days 255,Dua Lipa,City Nights,Rock,2025,2170136471,76,4.82,0.44,0.95,0.93,0.38,84.7,No
+256,Paradise Sky 256,OneRepublic,After Dark,Rock,2023,2382614706,75,4.02,0.69,0.43,0.43,0.57,177.9,Yes
+257,Tonight World 257,Maroon 5,The Collection,Latin,2016,2419975110,80,3.54,0.72,0.9,0.58,0.75,116.5,Yes
+258,Beautiful Love 258,Maroon 5,After Dark,EDM,2021,232912437,53,4.14,0.78,0.33,0.38,0.21,162.3,No
+259,Tonight Love 259,Drake,Love & Music,Rock,2020,445148273,92,3.97,0.77,0.64,0.34,0.67,157.9,No
+260,Perfect Days 260,The Weeknd,Summer Lights,Rock,2021,2376357111,75,2.17,0.68,0.81,0.85,0.71,170.3,No
+261,Tonight Hearts 261,Selena Gomez,Midnight Memories,R&B,2018,1932645417,72,2.57,0.92,0.77,0.25,0.03,100.7,No
+262,Falling Sky 262,Dua Lipa,Golden Hour,Pop,2015,2007877824,77,4.27,0.36,0.45,0.19,0.79,137.7,No
+263,Sunshine World 263,Doja Cat,Golden Hour,Hip-Hop,2016,2261554634,75,2.7,0.8,0.32,0.58,0.34,108.4,Yes
+264,Lost World 264,Justin Bieber,Love & Music,Pop,2019,2283475421,62,3.52,0.33,0.47,0.34,0.55,171.0,Yes
+265,Lost Days 265,The Weeknd,Summer Lights,Pop,2016,1107048042,84,3.73,0.89,0.84,0.45,0.68,119.0,Yes
+266,Forever World 266,Imagine Dragons,Love & Music,Pop,2023,417129737,45,2.54,0.69,0.36,0.65,0.18,145.4,Yes
+267,Tonight Days 267,Drake,Neon Dreams,Pop,2025,665370908,44,2.08,0.31,0.24,0.79,0.47,133.2,Yes
+268,Memories Days 268,Post Malone,City Nights,Hip-Hop,2022,1864828364,86,3.01,0.62,0.7,0.64,0.64,134.4,Yes
+269,Paradise Lights 269,SZA,Future Sounds,Latin,2019,376537098,73,2.9,0.53,0.72,0.53,0.45,85.0,No
+270,City Dreams 270,Shawn Mendes,Love & Music,R&B,2019,52889782,82,3.77,0.34,0.2,0.63,0.46,174.2,No
+271,Higher Hearts 271,Drake,After Dark,EDM,2021,616840071,100,2.52,0.39,0.34,0.79,0.72,163.7,No
+272,Electric Sky 272,Shawn Mendes,The Collection,Dance,2025,1081695131,43,2.31,0.92,0.48,0.69,0.2,101.4,Yes
+273,Lost Nights 273,Drake,Golden Hour,Indie,2022,1317866234,77,4.22,0.82,0.95,0.28,0.27,156.4,No
+274,Higher Dreams 274,Post Malone,Neon Dreams,EDM,2025,2066386599,77,3.48,0.59,0.28,0.67,0.07,100.9,Yes
+275,Forever Sky 275,Shawn Mendes,Love & Music,Pop,2025,328840346,44,4.85,0.82,0.65,0.77,0.18,74.0,No
+276,Tonight Nights 276,Shawn Mendes,The Collection,EDM,2025,1576179066,54,3.26,0.34,0.59,0.22,0.31,71.2,Yes
+277,Falling Dreams 277,OneRepublic,The Collection,R&B,2022,774422699,55,3.81,0.77,0.58,0.44,0.19,123.6,Yes
+278,Higher Hearts 278,Post Malone,Neon Dreams,Latin,2015,2229300124,61,4.9,0.58,0.55,0.19,0.83,105.6,No
+279,Sunshine Dreams 279,Post Malone,Midnight Memories,EDM,2021,1573937696,83,3.88,0.51,0.91,0.56,0.3,165.4,No
+280,Waves Love 280,Doja Cat,Midnight Memories,EDM,2023,1894350539,52,2.53,0.4,0.35,0.44,0.61,83.0,Yes
+281,Lost Lights 281,Olivia Rodrigo,Golden Hour,Latin,2022,2062380250,96,2.67,0.27,0.23,0.61,0.14,139.2,Yes
+282,Summer Love 282,Selena Gomez,City Nights,Pop,2017,778255350,68,3.65,0.86,0.77,0.81,0.81,93.8,No
+283,Falling Hearts 283,Doja Cat,Love & Music,EDM,2021,786186472,53,3.99,0.37,0.73,0.89,0.51,77.6,No
+284,Summer Lights 284,Harry Styles,Love & Music,Latin,2015,2250028124,60,4.75,0.83,0.67,0.29,0.77,136.0,Yes
+285,Starlight Dreams 285,Taylor Swift,Neon Dreams,Pop,2024,1858264746,35,3.67,0.74,0.53,0.9,0.41,154.6,No
+286,Sunshine Lights 286,Selena Gomez,After Dark,Hip-Hop,2021,1098146603,52,3.53,0.45,0.88,0.48,0.16,148.0,Yes
+287,Paradise Lights 287,Selena Gomez,Neon Dreams,Latin,2023,1615741069,35,4.09,0.5,0.32,0.67,0.22,164.0,No
+288,Higher Sky 288,Selena Gomez,Love & Music,Dance,2025,879857628,85,3.32,0.38,0.64,0.54,0.84,133.5,No
+289,Beautiful Hearts 289,Dua Lipa,City Nights,Indie,2022,435693397,55,2.69,0.81,0.68,0.7,0.04,112.8,Yes
+290,Summer Nights 290,Taylor Swift,After Dark,Indie,2024,383561387,90,2.21,0.31,0.23,0.46,0.84,137.5,No
+291,Golden Dreams 291,OneRepublic,Love & Music,EDM,2025,1890370603,98,2.03,0.39,0.81,0.56,0.59,137.7,Yes
+292,Dream Love 292,SZA,Neon Dreams,Latin,2017,1190139825,46,4.49,0.53,0.36,0.16,0.6,171.1,No
+293,Sunshine World 293,Shawn Mendes,After Dark,Dance,2020,976931819,70,3.94,0.9,0.65,0.36,0.35,81.7,Yes
+294,City World 294,Maroon 5,The Collection,EDM,2016,1111784665,100,4.8,0.74,0.95,0.6,0.65,153.3,No
+295,Sunshine Love 295,Coldplay,After Dark,Rock,2022,1112327477,49,2.22,0.81,0.52,0.43,0.46,147.1,No
+296,City Lights 296,Bruno Mars,Golden Hour,Dance,2021,331541305,78,3.77,0.47,0.37,0.61,0.16,152.1,Yes
+297,Forever Hearts 297,Doja Cat,After Dark,Indie,2018,893107487,68,2.73,0.36,0.28,0.89,0.57,143.0,Yes
+298,Golden Nights 298,Shawn Mendes,The Collection,EDM,2020,2119585794,75,4.87,0.59,0.97,0.88,0.24,94.4,Yes
+299,Paradise Days 299,The Weeknd,Golden Hour,Dance,2022,2163114593,39,3.11,0.93,0.74,0.52,0.59,71.3,Yes
+300,Sunshine Lights 300,Harry Styles,Summer Lights,Rock,2020,1120406331,81,2.6,0.44,0.95,0.42,0.16,116.6,No
+301,Higher Days 301,SZA,The Collection,Rock,2019,777618336,92,3.83,0.82,0.76,0.79,0.47,164.2,Yes
+302,Summer Nights 302,Dua Lipa,Love & Music,Indie,2015,1815417494,57,3.6,0.8,0.43,0.6,0.48,113.8,Yes
+303,Forever Sky 303,The Weeknd,Summer Lights,Indie,2022,1937111726,47,4.38,0.5,0.63,0.8,0.29,115.3,No
+304,Forever Dreams 304,OneRepublic,Future Sounds,Dance,2019,1401252148,80,4.15,0.87,0.5,0.38,0.54,85.9,Yes
+305,Memories Days 305,Justin Bieber,Neon Dreams,Indie,2016,700782515,45,3.1,0.71,0.75,0.63,0.34,167.6,No
+306,Paradise Nights 306,Selena Gomez,Golden Hour,Rock,2021,794785197,56,4.73,0.71,0.93,0.71,0.07,88.4,Yes
+307,Electric Nights 307,Ed Sheeran,Love & Music,Hip-Hop,2023,118236420,41,4.47,0.32,0.68,0.22,0.79,112.9,Yes
+308,City Nights 308,Bruno Mars,Golden Hour,Pop,2025,568830893,51,3.69,0.27,0.48,0.88,0.73,121.4,No
+309,Heartbeat Dreams 309,Shawn Mendes,The Collection,Latin,2023,1965839066,57,4.02,0.62,0.7,0.4,0.3,129.4,Yes
+310,City World 310,Coldplay,Eternal Vibes,R&B,2021,673801732,68,2.97,0.49,0.57,0.16,0.78,174.2,No
+311,Midnight Days 311,Imagine Dragons,After Dark,Latin,2019,36001012,64,3.75,0.87,0.54,0.35,0.61,141.1,No
+312,Ocean Lights 312,Bruno Mars,The Collection,EDM,2021,2223823320,65,4.45,0.45,0.78,0.8,0.35,163.9,Yes
+313,City Lights 313,Dua Lipa,The Collection,Dance,2025,1949620470,93,2.87,0.38,0.22,0.19,0.45,90.5,Yes
+314,Ocean Dreams 314,Imagine Dragons,Eternal Vibes,Dance,2022,1004913493,36,2.29,0.4,0.53,0.78,0.42,110.9,Yes
+315,Electric Dreams 315,Justin Bieber,Future Sounds,R&B,2015,1690438702,69,2.23,0.38,0.86,0.8,0.7,83.4,Yes
+316,Heartbeat Hearts 316,Harry Styles,Midnight Memories,Rock,2015,1984269680,60,4.35,0.58,0.73,0.4,0.27,139.2,Yes
+317,Paradise Lights 317,Shawn Mendes,Eternal Vibes,Rock,2019,1288392443,96,2.64,0.93,0.38,0.5,0.01,157.4,Yes
+318,Dream Love 318,Harry Styles,Midnight Memories,Rock,2015,670685329,95,3.19,0.36,0.27,0.64,0.79,179.7,Yes
+319,Higher Dreams 319,The Weeknd,Neon Dreams,Indie,2023,545424819,48,3.56,0.81,0.54,0.3,0.59,109.4,Yes
+320,Golden Nights 320,Post Malone,After Dark,R&B,2022,2336025091,72,4.23,0.63,0.45,0.52,0.74,135.9,Yes
+321,Paradise Dreams 321,Taylor Swift,Future Sounds,Pop,2022,1136076509,72,3.73,0.79,0.59,0.74,0.75,138.2,No
+322,Dream World 322,OneRepublic,Future Sounds,R&B,2016,820483101,84,3.68,0.68,0.45,0.66,0.09,127.6,Yes
+323,Summer Dreams 323,The Weeknd,Midnight Memories,Pop,2015,464798459,60,3.55,0.65,0.85,0.68,0.45,147.1,No
+324,Higher Hearts 324,The Weeknd,After Dark,Dance,2024,61204397,44,4.98,0.9,0.85,0.52,0.54,109.7,No
+325,Golden Sky 325,SZA,Midnight Memories,Rock,2023,307314710,40,4.67,0.92,0.28,0.73,0.45,90.8,Yes
+326,Falling Days 326,Selena Gomez,City Nights,Hip-Hop,2016,1975189949,80,4.25,0.37,0.34,0.47,0.29,87.4,No
+327,Lost World 327,SZA,Neon Dreams,Rock,2020,1854361671,87,4.64,0.64,0.37,0.76,0.79,97.9,No
+328,Perfect Love 328,Coldplay,Summer Lights,Pop,2015,75018477,71,3.66,0.46,0.37,0.83,0.02,160.4,No
+329,Paradise Dreams 329,Shawn Mendes,Golden Hour,EDM,2016,1982273278,39,3.14,0.51,0.65,0.34,0.69,80.1,No
+330,Forever Lights 330,Selena Gomez,The Collection,Hip-Hop,2020,747610535,96,3.56,0.67,0.43,0.73,0.49,78.6,Yes
+331,Higher Days 331,Justin Bieber,The Collection,Pop,2021,978744985,50,4.39,0.69,0.69,0.19,0.45,105.1,Yes
+332,Paradise Hearts 332,Justin Bieber,The Collection,Hip-Hop,2017,1692418351,41,5.11,0.41,0.43,0.47,0.11,79.1,Yes
+333,Perfect Sky 333,Shawn Mendes,Golden Hour,R&B,2016,2160313861,86,3.39,0.59,0.35,0.47,0.49,131.7,Yes
+334,Electric Sky 334,Bruno Mars,City Nights,Latin,2021,2478979489,76,2.29,0.51,0.35,0.43,0.56,154.7,Yes
+335,Waves Nights 335,SZA,After Dark,Rock,2024,1896776000,53,2.14,0.73,0.32,0.73,0.07,151.4,Yes
+336,Summer Sky 336,OneRepublic,Future Sounds,Pop,2015,482935341,78,2.98,0.48,0.78,0.32,0.46,152.5,No
+337,Summer Love 337,OneRepublic,Summer Lights,Rock,2021,1102176652,40,2.55,0.8,0.68,0.19,0.56,70.9,No
+338,Higher Lights 338,Post Malone,City Nights,Hip-Hop,2015,1665104622,72,2.74,0.88,0.58,0.63,0.07,91.9,No
+339,Midnight Love 339,Shawn Mendes,Golden Hour,Pop,2018,1437670675,74,3.57,0.49,0.47,0.65,0.2,177.6,No
+340,Ocean Days 340,The Weeknd,City Nights,R&B,2015,973870326,70,2.49,0.31,0.5,0.92,0.52,138.8,Yes
+341,Dream Dreams 341,Olivia Rodrigo,Golden Hour,Rock,2021,1419267186,74,3.44,0.71,0.65,0.7,0.17,85.2,Yes
+342,Summer Dreams 342,Olivia Rodrigo,Midnight Memories,R&B,2020,2398758362,43,3.71,0.47,0.89,0.73,0.65,166.8,No
+343,City Nights 343,Olivia Rodrigo,Midnight Memories,R&B,2025,657650570,70,4.49,0.38,0.79,0.64,0.23,132.4,Yes
+344,Dream Hearts 344,OneRepublic,Future Sounds,R&B,2025,1548015709,38,2.25,0.6,0.67,0.72,0.32,163.7,No
+345,Summer Dreams 345,Doja Cat,Eternal Vibes,EDM,2018,143424884,63,3.31,0.92,0.37,0.69,0.17,92.5,Yes
+346,Waves Nights 346,Coldplay,Eternal Vibes,Latin,2020,1064928520,93,3.37,0.75,0.51,0.9,0.49,129.0,Yes
+347,Beautiful Nights 347,Maroon 5,City Nights,Pop,2022,1060366449,40,3.66,0.64,0.6,0.65,0.04,102.0,No
+348,City Nights 348,Imagine Dragons,Eternal Vibes,R&B,2017,1269523083,89,3.96,0.57,0.7,0.22,0.43,89.8,Yes
+349,Memories World 349,Harry Styles,After Dark,Dance,2022,773277634,38,3.45,0.31,0.45,0.67,0.6,88.0,Yes
+350,Beautiful Nights 350,Taylor Swift,City Nights,R&B,2025,371388824,81,3.68,0.52,0.5,0.76,0.78,132.2,Yes
+351,Summer Dreams 351,Billie Eilish,Future Sounds,EDM,2015,1328117098,88,2.99,0.69,0.29,0.26,0.17,138.5,No
+352,Heartbeat Nights 352,Ariana Grande,The Collection,Dance,2022,2124423746,35,2.76,0.57,0.54,0.63,0.01,167.0,No
+353,Tonight Hearts 353,OneRepublic,Neon Dreams,Pop,2015,641755414,58,2.18,0.35,0.23,0.61,0.51,106.4,Yes
+354,Beautiful Days 354,The Weeknd,The Collection,R&B,2017,1226405125,55,3.96,0.93,0.78,0.44,0.03,154.5,No
+355,Perfect Lights 355,SZA,Midnight Memories,EDM,2021,1262706935,43,3.51,0.48,0.52,0.32,0.18,76.4,Yes
+356,Waves Sky 356,Doja Cat,The Collection,Indie,2021,1120231376,75,3.68,0.9,0.68,0.55,0.62,124.8,Yes
+357,Dream Sky 357,OneRepublic,Midnight Memories,Rock,2018,512695800,35,2.08,0.81,0.98,0.48,0.28,131.6,Yes
+358,Forever Sky 358,Ariana Grande,Love & Music,Indie,2019,1326873046,43,2.96,0.79,0.29,0.42,0.34,132.6,Yes
+359,Forever World 359,Billie Eilish,Golden Hour,Dance,2020,2042963908,96,4.55,0.36,0.56,0.84,0.76,120.9,No
+360,Paradise Sky 360,The Weeknd,After Dark,Indie,2024,2389467937,75,3.71,0.81,0.89,0.43,0.82,100.9,Yes
+361,Perfect Dreams 361,Justin Bieber,Summer Lights,Indie,2024,809786298,84,3.9,0.75,0.41,0.22,0.75,110.9,No
+362,Paradise Sky 362,Drake,After Dark,Hip-Hop,2017,1612244157,49,4.51,0.56,0.22,0.54,0.43,90.9,No
+363,City World 363,Maroon 5,Golden Hour,Rock,2017,2221832856,47,4.17,0.76,0.56,0.72,0.44,70.5,Yes
+364,Electric World 364,OneRepublic,Summer Lights,Pop,2022,447823293,40,3.67,0.65,0.44,0.86,0.27,91.2,No
+365,Lost Nights 365,Shawn Mendes,Summer Lights,Hip-Hop,2025,1176040915,50,2.48,0.26,0.69,0.56,0.18,108.5,No
+366,Summer Sky 366,Post Malone,The Collection,Indie,2024,740620429,66,2.23,0.63,0.24,0.17,0.77,75.6,No
+367,Electric Days 367,The Weeknd,Summer Lights,Indie,2021,1919852173,57,3.97,0.82,0.76,0.69,0.45,177.1,No
+368,Summer Lights 368,Selena Gomez,Future Sounds,Dance,2022,1961719117,47,2.99,0.41,0.37,0.84,0.52,170.4,No
+369,Lost World 369,Billie Eilish,Midnight Memories,Indie,2022,134983470,97,2.21,0.59,0.86,0.38,0.3,133.2,Yes
+370,Beautiful World 370,Harry Styles,City Nights,Latin,2023,1302587456,44,3.7,0.42,0.39,0.28,0.41,77.3,Yes
+371,Memories Days 371,Selena Gomez,Golden Hour,Hip-Hop,2024,2343725151,78,4.22,0.77,0.76,0.82,0.1,135.6,No
+372,Beautiful Nights 372,Shawn Mendes,Midnight Memories,Latin,2017,1747870683,74,2.22,0.48,0.7,0.2,0.18,85.3,Yes
+373,Summer Nights 373,Dua Lipa,Future Sounds,Rock,2023,1679962768,72,3.97,0.39,0.88,0.39,0.68,144.8,No
+374,Electric Love 374,SZA,Summer Lights,Pop,2024,1741014680,100,4.71,0.51,0.63,0.19,0.6,160.3,No
+375,City Love 375,Ed Sheeran,City Nights,Latin,2018,1698369537,90,4.0,0.52,0.63,0.68,0.4,90.7,No
+376,Memories Dreams 376,SZA,Eternal Vibes,R&B,2019,581717254,51,2.04,0.75,0.58,0.5,0.84,79.3,No
+377,Waves Days 377,Coldplay,Love & Music,Dance,2024,1956608900,58,3.63,0.52,0.38,0.49,0.01,124.8,Yes
+378,Ocean Days 378,Maroon 5,The Collection,Dance,2023,148717638,81,5.13,0.74,0.29,0.54,0.59,85.6,No
+379,Paradise Lights 379,Coldplay,Midnight Memories,EDM,2023,1058260431,46,3.51,0.68,0.9,0.58,0.01,119.9,No
+380,Lost Days 380,Selena Gomez,The Collection,EDM,2020,1247140808,72,2.54,0.76,0.64,0.2,0.4,88.6,Yes
+381,Waves Love 381,Imagine Dragons,Midnight Memories,EDM,2019,359378489,97,2.41,0.43,0.68,0.37,0.22,151.6,Yes
+382,Summer Nights 382,Selena Gomez,After Dark,Dance,2020,1127071298,57,4.5,0.38,0.61,0.18,0.84,176.4,Yes
+383,Memories Days 383,Doja Cat,Neon Dreams,Pop,2018,723476143,91,2.67,0.7,0.79,0.24,0.14,113.9,No
+384,Tonight Hearts 384,Doja Cat,Love & Music,Latin,2021,2043346724,84,2.84,0.26,0.92,0.51,0.58,175.8,Yes
+385,Tonight World 385,Ed Sheeran,Midnight Memories,EDM,2021,1443674062,69,2.87,0.71,0.51,0.77,0.64,150.8,Yes
+386,Lost Dreams 386,Maroon 5,Eternal Vibes,Latin,2020,41404854,36,4.66,0.32,0.28,0.51,0.19,101.2,Yes
+387,Midnight Lights 387,The Weeknd,Midnight Memories,Hip-Hop,2015,528084612,62,4.27,0.85,0.3,0.68,0.76,132.3,Yes
+388,Falling Sky 388,Ed Sheeran,Summer Lights,Latin,2019,330189913,94,4.04,0.73,0.72,0.77,0.22,155.9,No
+389,Perfect Days 389,The Weeknd,Summer Lights,R&B,2020,1114126346,42,5.06,0.56,0.58,0.89,0.52,89.6,No
+390,Summer Days 390,Ed Sheeran,Midnight Memories,Pop,2018,1901578985,48,4.29,0.3,0.65,0.35,0.38,168.6,Yes
+391,Golden Days 391,Ariana Grande,The Collection,Pop,2019,1421612771,54,4.89,0.61,0.93,0.54,0.37,162.8,Yes
+392,Dream Love 392,Shawn Mendes,Neon Dreams,Indie,2021,525565727,96,3.82,0.73,0.51,0.66,0.82,80.0,No
+393,Heartbeat Sky 393,Taylor Swift,City Nights,Rock,2025,763569854,60,3.77,0.46,0.5,0.24,0.59,123.5,No
+394,Summer Love 394,Drake,Midnight Memories,EDM,2018,1029285839,38,3.57,0.6,0.95,0.8,0.82,71.8,No
+395,Lost Love 395,The Weeknd,Love & Music,Dance,2021,914150816,50,4.58,0.91,0.88,0.58,0.63,95.6,Yes
+396,Summer Nights 396,The Weeknd,The Collection,Pop,2025,2028872904,37,4.9,0.42,0.71,0.16,0.54,169.5,Yes
+397,Waves Dreams 397,Coldplay,The Collection,Rock,2024,461689025,43,2.37,0.29,0.36,0.42,0.71,151.2,No
+398,Beautiful Dreams 398,Justin Bieber,Neon Dreams,Hip-Hop,2020,200792723,62,3.9,0.33,0.31,0.48,0.59,130.9,No
+399,Sunshine Love 399,Bruno Mars,Eternal Vibes,Dance,2017,1620470562,47,4.49,0.31,0.21,0.89,0.6,135.3,No
+400,Starlight Dreams 400,Olivia Rodrigo,City Nights,Rock,2018,1168720296,53,3.67,0.91,0.68,0.18,0.15,125.0,Yes
+401,Higher Days 401,Imagine Dragons,Love & Music,Hip-Hop,2015,829216542,65,2.38,0.68,0.87,0.94,0.43,121.1,Yes
+402,Golden Hearts 402,Post Malone,Golden Hour,Pop,2016,2042587624,54,3.59,0.29,0.48,0.32,0.21,137.9,No
+403,Beautiful Love 403,The Weeknd,Future Sounds,Hip-Hop,2023,683800733,57,4.51,0.3,0.38,0.51,0.49,116.1,No
+404,Beautiful World 404,Bruno Mars,After Dark,Latin,2018,1023415610,47,4.36,0.87,0.26,0.62,0.05,117.9,Yes
+405,Heartbeat Dreams 405,OneRepublic,After Dark,Indie,2021,590853361,82,3.46,0.93,0.36,0.25,0.59,76.6,Yes
+406,Heartbeat Nights 406,Ed Sheeran,Summer Lights,R&B,2021,1480647712,56,2.7,0.8,0.7,0.64,0.14,176.7,Yes
+407,Memories Nights 407,Taylor Swift,City Nights,Rock,2018,1992551590,95,2.89,0.42,0.54,0.33,0.79,174.1,Yes
+408,Golden Love 408,Olivia Rodrigo,City Nights,Dance,2022,149399177,99,3.36,0.82,0.74,0.23,0.42,79.1,Yes
+409,Forever Dreams 409,Olivia Rodrigo,Midnight Memories,Pop,2020,1031765156,72,4.07,0.59,0.44,0.71,0.73,152.2,Yes
+410,Heartbeat Dreams 410,Coldplay,Eternal Vibes,Hip-Hop,2021,1595943758,58,4.01,0.52,0.74,0.57,0.25,152.8,Yes
+411,Waves World 411,Taylor Swift,Midnight Memories,Latin,2015,1568327376,100,4.84,0.51,0.68,0.44,0.15,131.5,Yes
+412,Forever Dreams 412,Shawn Mendes,Future Sounds,Rock,2020,2322709657,65,2.36,0.78,0.79,0.41,0.76,125.4,No
+413,Golden Lights 413,Post Malone,Love & Music,Hip-Hop,2020,1948088958,79,3.56,0.58,0.61,0.81,0.76,119.7,No
+414,Forever Nights 414,Taylor Swift,Summer Lights,Hip-Hop,2016,1682968572,45,4.87,0.33,0.42,0.71,0.42,166.2,Yes
+415,Memories Dreams 415,Imagine Dragons,Eternal Vibes,EDM,2022,1809444480,79,3.42,0.38,0.22,0.79,0.71,127.2,No
+416,Sunshine World 416,Olivia Rodrigo,Love & Music,Dance,2025,2092991445,76,3.9,0.57,0.64,0.87,0.26,156.8,Yes
+417,Higher Sky 417,Doja Cat,Golden Hour,R&B,2015,1521642718,53,2.91,0.75,0.42,0.93,0.71,146.2,Yes
+418,Dream Lights 418,Billie Eilish,Summer Lights,Indie,2015,2472566824,75,2.4,0.38,0.64,0.18,0.27,107.8,No
+419,Tonight Dreams 419,Coldplay,City Nights,Dance,2023,526795675,73,4.95,0.79,0.94,0.89,0.13,176.7,No
+420,Starlight Sky 420,Imagine Dragons,Future Sounds,Indie,2024,2432650861,53,4.33,0.73,0.77,0.87,0.12,130.6,No
+421,Perfect Hearts 421,Ariana Grande,The Collection,Rock,2022,402203433,80,3.04,0.66,0.37,0.9,0.24,72.5,No
+422,Paradise Days 422,Taylor Swift,Love & Music,Pop,2018,1369759413,97,3.93,0.89,0.48,0.27,0.73,110.7,No
+423,City World 423,Ariana Grande,Midnight Memories,Rock,2020,1918734517,74,4.8,0.76,0.55,0.94,0.68,101.7,No
+424,Summer Lights 424,Olivia Rodrigo,Love & Music,Indie,2017,1307367816,61,3.52,0.3,0.95,0.75,0.08,115.0,No
+425,Falling Nights 425,Olivia Rodrigo,City Nights,EDM,2024,860804722,52,2.6,0.64,0.23,0.81,0.71,103.4,No
+426,Midnight Love 426,Bruno Mars,Future Sounds,Hip-Hop,2017,1294217783,68,5.06,0.71,0.9,0.48,0.42,145.7,Yes
+427,Beautiful Sky 427,Ariana Grande,The Collection,Latin,2022,1558745264,43,3.86,0.86,0.69,0.53,0.59,83.2,Yes
+428,Falling Love 428,Post Malone,Golden Hour,Indie,2017,1985168756,75,4.81,0.36,0.41,0.49,0.78,109.2,No
+429,Paradise Lights 429,Imagine Dragons,The Collection,R&B,2023,792042009,59,4.45,0.63,0.88,0.81,0.58,103.1,No
+430,Tonight World 430,Ed Sheeran,Neon Dreams,Dance,2017,593193385,36,3.66,0.54,0.92,0.28,0.19,125.4,Yes
+431,Waves Lights 431,Shawn Mendes,Golden Hour,Pop,2021,333136908,93,2.37,0.59,0.44,0.44,0.69,167.9,No
+432,City Love 432,Billie Eilish,Golden Hour,Rock,2016,557824466,63,4.74,0.47,0.36,0.93,0.36,153.9,Yes
+433,Midnight Nights 433,Taylor Swift,Love & Music,Pop,2021,848321095,40,2.35,0.58,0.91,0.18,0.26,71.1,Yes
+434,Waves Hearts 434,Ed Sheeran,Eternal Vibes,Hip-Hop,2024,798631899,60,4.15,0.35,0.78,0.37,0.49,108.7,Yes
+435,Sunshine Lights 435,Maroon 5,After Dark,EDM,2016,2276345114,36,2.69,0.37,0.79,0.15,0.62,171.7,No
+436,Sunshine Dreams 436,SZA,City Nights,Latin,2022,781738530,48,4.67,0.4,0.38,0.24,0.84,83.6,Yes
+437,Summer Nights 437,Maroon 5,Midnight Memories,Indie,2020,2397864240,71,4.31,0.6,0.5,0.52,0.63,145.6,No
+438,Tonight Days 438,Bruno Mars,Future Sounds,Indie,2019,815825323,89,4.74,0.38,0.98,0.54,0.09,118.2,Yes
+439,Summer Days 439,Ed Sheeran,After Dark,Indie,2021,729660700,48,2.21,0.39,0.86,0.47,0.2,116.7,No
+440,Sunshine Sky 440,Post Malone,The Collection,Latin,2025,1534426298,86,3.52,0.94,0.6,0.27,0.39,83.4,No
+441,Dream Dreams 441,Doja Cat,Future Sounds,Pop,2015,231999410,47,4.66,0.93,0.5,0.69,0.13,138.4,Yes
+442,Paradise Nights 442,Taylor Swift,Future Sounds,EDM,2022,1265843171,60,4.12,0.63,0.83,0.58,0.02,154.0,No
+443,Perfect Nights 443,Ed Sheeran,Eternal Vibes,R&B,2020,1905764163,83,3.47,0.64,0.87,0.39,0.6,124.1,Yes
+444,Perfect Nights 444,Imagine Dragons,The Collection,Dance,2016,2383483743,97,4.19,0.58,0.87,0.56,0.33,124.4,No
+445,Higher Sky 445,OneRepublic,Golden Hour,Indie,2020,125890371,42,3.89,0.49,0.78,0.17,0.76,107.5,Yes
+446,Higher World 446,Olivia Rodrigo,After Dark,Rock,2021,247447651,79,4.12,0.7,0.66,0.88,0.06,103.5,No
+447,Midnight World 447,Billie Eilish,City Nights,EDM,2015,1819507883,93,3.82,0.26,0.57,0.17,0.27,132.7,No
+448,Beautiful Nights 448,Selena Gomez,Neon Dreams,R&B,2016,1447969253,61,3.59,0.68,0.48,0.5,0.42,163.2,Yes
+449,Forever Sky 449,Shawn Mendes,City Nights,Rock,2019,1281980803,41,5.19,0.69,0.95,0.72,0.49,135.1,No
+450,Sunshine Nights 450,Taylor Swift,Summer Lights,EDM,2021,1496712941,61,4.55,0.55,0.62,0.31,0.34,138.7,No
+451,Falling Love 451,Shawn Mendes,Future Sounds,EDM,2025,2482523098,58,3.6,0.91,0.62,0.64,0.65,117.7,Yes
+452,Forever World 452,Maroon 5,Summer Lights,Latin,2022,1037398249,53,2.48,0.54,0.87,0.88,0.54,163.1,No
+453,Falling Sky 453,Imagine Dragons,Golden Hour,Rock,2025,1748180954,65,2.76,0.27,0.82,0.4,0.41,179.0,No
+454,Forever Dreams 454,The Weeknd,Summer Lights,R&B,2019,130163384,52,2.83,0.7,0.23,0.73,0.66,76.1,Yes
+455,Waves Sky 455,Justin Bieber,Midnight Memories,Latin,2016,1565938195,87,4.15,0.91,0.76,0.26,0.1,150.8,Yes
+456,Sunshine Sky 456,Maroon 5,Neon Dreams,Indie,2022,1027532318,46,3.92,0.83,0.78,0.79,0.63,172.9,Yes
+457,Beautiful Dreams 457,Dua Lipa,The Collection,Pop,2018,1892532541,70,3.31,0.59,0.49,0.91,0.27,116.6,Yes
+458,Summer World 458,Post Malone,The Collection,Pop,2022,1328586087,82,2.07,0.84,0.72,0.9,0.59,156.8,Yes
+459,Tonight Days 459,Post Malone,After Dark,Dance,2019,529216934,81,3.71,0.52,0.91,0.46,0.83,98.1,Yes
+460,City Hearts 460,Bruno Mars,City Nights,Pop,2017,1367296424,91,4.81,0.44,0.26,0.77,0.42,151.1,No
+461,Beautiful Dreams 461,Olivia Rodrigo,The Collection,Indie,2019,290045092,99,3.13,0.57,0.22,0.19,0.55,139.3,Yes
+462,Perfect Hearts 462,Ariana Grande,Midnight Memories,R&B,2025,1352424894,74,3.84,0.42,0.76,0.76,0.55,84.3,No
+463,Heartbeat Nights 463,Justin Bieber,Neon Dreams,EDM,2017,750086724,68,4.2,0.39,0.52,0.3,0.74,173.9,Yes
+464,Midnight Hearts 464,Ariana Grande,Golden Hour,Pop,2016,856546865,94,2.84,0.53,0.53,0.36,0.08,110.5,Yes
+465,Paradise Days 465,Ariana Grande,After Dark,Rock,2022,514006662,98,2.72,0.91,0.83,0.36,0.63,112.0,No
+466,Waves Hearts 466,Drake,Golden Hour,Pop,2019,1801717941,59,2.58,0.45,0.4,0.64,0.77,110.7,No
+467,Midnight Nights 467,Taylor Swift,City Nights,Latin,2017,1712484488,76,4.2,0.77,0.4,0.23,0.05,106.6,Yes
+468,Higher Love 468,Doja Cat,Summer Lights,Latin,2015,2171991372,67,3.98,0.72,0.3,0.86,0.03,89.7,Yes
+469,Starlight World 469,Maroon 5,Love & Music,Latin,2022,390035155,51,3.02,0.35,0.29,0.19,0.11,165.9,No
+470,Memories Sky 470,SZA,Golden Hour,Indie,2019,2225380779,68,3.0,0.77,0.58,0.91,0.47,171.5,No
+471,Forever Dreams 471,The Weeknd,Summer Lights,R&B,2015,791585993,64,2.11,0.74,0.54,0.95,0.79,74.5,No
+472,Starlight Nights 472,Shawn Mendes,Midnight Memories,Rock,2022,640885849,49,2.4,0.86,0.34,0.28,0.43,100.0,Yes
+473,Midnight Dreams 473,Selena Gomez,Midnight Memories,Indie,2021,1062238139,44,4.46,0.27,0.73,0.69,0.34,134.9,Yes
+474,Summer Love 474,Justin Bieber,Summer Lights,Pop,2016,2065961937,93,3.45,0.48,0.23,0.65,0.39,174.2,Yes
+475,Golden Sky 475,Drake,The Collection,Latin,2020,308757650,42,3.75,0.31,0.4,0.34,0.66,113.9,Yes
+476,Falling Days 476,Drake,Future Sounds,Latin,2021,667003357,71,2.39,0.77,0.92,0.87,0.51,109.5,Yes
+477,Paradise Hearts 477,SZA,The Collection,Latin,2022,1671831822,92,3.52,0.31,0.53,0.44,0.16,139.4,Yes
+478,Paradise World 478,The Weeknd,Love & Music,Hip-Hop,2022,671019265,63,4.98,0.45,0.54,0.88,0.41,86.3,Yes
+479,Dream Days 479,Imagine Dragons,Eternal Vibes,Hip-Hop,2019,2371502646,41,2.24,0.61,0.52,0.52,0.61,159.4,No
+480,Sunshine Lights 480,Post Malone,Future Sounds,R&B,2023,494349186,37,4.37,0.8,0.86,0.19,0.35,147.5,No
+481,Heartbeat Nights 481,Selena Gomez,Golden Hour,Rock,2024,1471019993,68,5.09,0.38,0.78,0.63,0.74,81.7,Yes
+482,Perfect Lights 482,Ariana Grande,City Nights,Dance,2015,2054214240,56,3.47,0.46,0.83,0.64,0.59,175.9,No
+483,Electric Dreams 483,Imagine Dragons,Eternal Vibes,Rock,2017,824488717,36,2.36,0.85,0.36,0.67,0.55,117.9,Yes
+484,City Nights 484,Taylor Swift,Golden Hour,R&B,2017,1816957488,95,2.07,0.77,0.55,0.54,0.02,119.4,Yes
+485,City Days 485,Drake,City Nights,Latin,2015,38819777,77,2.33,0.84,0.77,0.63,0.47,102.0,No
+486,Starlight Nights 486,Harry Styles,The Collection,Indie,2018,2274069059,42,2.06,0.64,0.41,0.67,0.76,82.9,No
+487,Memories Love 487,Coldplay,Future Sounds,Rock,2017,830498296,71,3.5,0.61,0.66,0.7,0.78,163.9,No
+488,City Days 488,Dua Lipa,Golden Hour,Rock,2021,2033619746,81,4.56,0.45,0.78,0.68,0.11,91.9,No
+489,Memories Nights 489,Ed Sheeran,Eternal Vibes,Indie,2019,904507630,65,3.78,0.87,0.48,0.28,0.7,168.4,Yes
+490,Lost Days 490,Taylor Swift,Future Sounds,EDM,2016,523351152,64,3.8,0.95,0.81,0.77,0.65,131.3,Yes
+491,Waves Lights 491,Maroon 5,Midnight Memories,Hip-Hop,2015,1968382604,91,5.08,0.8,0.68,0.84,0.09,131.9,Yes
+492,Beautiful Hearts 492,Billie Eilish,Love & Music,Dance,2020,1259658686,55,4.27,0.76,0.28,0.67,0.28,85.2,Yes
+493,Memories Love 493,Coldplay,Golden Hour,Hip-Hop,2018,1470958548,95,2.92,0.44,0.76,0.48,0.54,97.0,No
+494,Summer Days 494,Bruno Mars,Love & Music,Indie,2021,1975329392,87,5.05,0.91,0.55,0.77,0.61,126.9,Yes
+495,Lost World 495,Taylor Swift,Eternal Vibes,R&B,2021,1869326250,56,2.2,0.88,0.25,0.66,0.61,142.6,No
+496,Perfect Sky 496,Olivia Rodrigo,Love & Music,R&B,2020,38939818,79,4.65,0.74,0.55,0.31,0.46,156.7,No
+497,Perfect Hearts 497,SZA,City Nights,R&B,2019,163785695,45,3.72,0.61,0.62,0.32,0.43,104.3,No
+498,Midnight Love 498,Billie Eilish,Summer Lights,Latin,2023,1041546460,68,4.66,0.94,0.29,0.2,0.32,139.0,No
+499,Golden Lights 499,Ed Sheeran,Future Sounds,Indie,2022,2463590795,73,4.36,0.94,0.83,0.94,0.48,168.4,Yes
+500,City Sky 500,SZA,After Dark,Hip-Hop,2025,1627061938,52,3.66,0.48,0.65,0.81,0.31,80.8,No
